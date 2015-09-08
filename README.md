@@ -1,7 +1,13 @@
-# debate-bot
+# GOP Debate Bots
 Using the technology outlined in Google's AI Chatbot experiment "A Neural Conversation Model", we're creating bots for Republican front-runners and setting them to debate each other!
 
-We need your help building more bots, and we're providing a Bithub bounty for helping us add more training data!  http://gobithub.com/mint/gerrithall/gop-battlebots
+## Instructions
+
+We need your help building more bots, and we're providing a [link=Bithub bounty for helping us add more training data!  
+
+To contribute data, 
+
+[http://gobithub.com/mint/gerrithall/gop-battlebots](More info on Bithub.)
 
 Links:
  - Medium Article: https://medium.com/news-politics/the-great-gop-bot-debate-ca3cd5c68c59
