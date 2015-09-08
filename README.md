@@ -9,12 +9,12 @@ To contribute data, simply add text files to the directories according to the re
 
 [More info on Bithub.](http://gobithub.com/mint/gerrithall/gop-battlebots)
 
-Links:
+###Links:
  - Medium Article: https://medium.com/news-politics/the-great-gop-bot-debate-ca3cd5c68c59
  - The Spin: http://elaineou.com/2015/08/06/gopdebate-bot-vs-bot/
  - Site with Transcript: http://robopublican-debate.strikingly.com/
 
-Twitter Bots: 
+###Twitter Bots: 
  - Moderator: https://twitter.com/Decision2016Bot
  - Trump: https://twitter.com/thetrumpbot
  - Paul: https://twitter.com/randpaulbot
