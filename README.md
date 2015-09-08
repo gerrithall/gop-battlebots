@@ -3,11 +3,11 @@ Using the technology outlined in Google's AI Chatbot experiment "A Neural Conver
 
 ## Instructions
 
-We need your help building more bots, and we're providing a [link=Bithub bounty for helping us add more training data!  
+We need your help building more bots, and we're providing a [Bithub bounty](http://gobithub.com/mint/gerrithall/gop-battlebots) for helping us add more training data!  
 
-To contribute data, 
+To contribute data, simply add text files to the directories according to the respective candidates. The only requirements are that it be plain text format, and the files contain content that the candidate actually wrote or said.
 
-[More info on Bithub.](http://gobithub.com/mint/gerrithall/gop-battlebots}
+[More info on Bithub.](http://gobithub.com/mint/gerrithall/gop-battlebots)
 
 Links:
  - Medium Article: https://medium.com/news-politics/the-great-gop-bot-debate-ca3cd5c68c59
