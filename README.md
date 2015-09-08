@@ -7,7 +7,7 @@ We need your help building more bots, and we're providing a [link=Bithub bounty 
 
 To contribute data, 
 
-[http://gobithub.com/mint/gerrithall/gop-battlebots](More info on Bithub.)
+[More info on Bithub.](http://gobithub.com/mint/gerrithall/gop-battlebots}
 
 Links:
  - Medium Article: https://medium.com/news-politics/the-great-gop-bot-debate-ca3cd5c68c59
